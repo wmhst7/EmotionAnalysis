@@ -1,3 +1,8 @@
+*DS_Store
+dataset/*
+word2vec/*
+ELMoForManyLangs-master/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
